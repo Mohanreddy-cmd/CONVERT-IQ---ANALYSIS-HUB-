@@ -2,6 +2,11 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
+VIEW THE EXACT WORKING OF THE APP IN THE LINKEDIN 
+
+LINKEDIN - https://www.linkedin.com/posts/mohana-rangan-r-s-3949742b3_ecommerce-businessintelligence-productmanagement-activity-7470093432783405056-YJby?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErdNSkBx4lSmIMisW76JLdv5Lr62otbdOo
+
+
 PROJECT DESCRIPTION
 Most e-commerce founders are drowning in transactional data, yet completely starved of actual growth insights. 
 
