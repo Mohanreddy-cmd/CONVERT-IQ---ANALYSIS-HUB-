@@ -1,0 +1,6 @@
+{
+  "name": "ConvertIQ",
+  "description": "Enterprise-grade e-commerce conversion intelligence platform providing automated funnel analytics, customer cohort heatmaps, and AI-driven revenue optimization insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
